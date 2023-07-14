@@ -13,6 +13,7 @@
 # they hold the value/data
 
 
+
 # eg : 
 x = 100
 one = 111
