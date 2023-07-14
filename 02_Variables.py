@@ -12,7 +12,7 @@
 # variables are containers
 # they hold the value/data
 
-
+# this is new line , ignore
 
 # eg : 
 x = 100
